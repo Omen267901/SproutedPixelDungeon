@@ -51,7 +51,7 @@ import com.watabou.utils.Random;
 
 public abstract class Mob extends Char {
 
-	private static final String TXT_DIED = "You hear something died in the distance";
+	private static final String TXT_DIED = "You hear something die in the distance";
 
 	protected static final String TXT_NOTICE1 = "?!";
 	protected static final String TXT_RAGE = "#$%^";
