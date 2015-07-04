@@ -77,6 +77,7 @@ public class RatBoss extends Rat {
 	@Override
 	public String description() {
 		return "Marsupial rats are aggressive but rather weak denizens "
-				+ "of the sewers. They have a nasty bite, but are only life threatening in large numbers.";
+				+ "of the sewers. They have a nasty bite, but are only life threatening in large numbers."
+				+ "This one has darker fur and seems to be able to call for assistance!";
 	}
 }
