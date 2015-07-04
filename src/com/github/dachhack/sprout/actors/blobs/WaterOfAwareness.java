@@ -38,7 +38,7 @@ import com.watabou.noosa.audio.Sample;
 
 public class WaterOfAwareness extends WellWater {
 
-	private static final String TXT_PROCCED = "As you take a sip, you feel the knowledge pours into your mind. "
+	private static final String TXT_PROCCED = "As you take a sip, you feel the knowledge pour into your mind. "
 			+ "Now you know everything about your equipped items. Also you sense "
 			+ "all items on the level and know all its secrets.";
 
@@ -102,7 +102,7 @@ public class WaterOfAwareness extends WellWater {
 
 	@Override
 	public String tileDesc() {
-		return "Power of knowledge radiates from the water of this well. "
+		return "The power of knowledge radiates from the water of this well. "
 				+ "Take a sip from it to reveal all secrets of equipped items.";
 	}
 }
