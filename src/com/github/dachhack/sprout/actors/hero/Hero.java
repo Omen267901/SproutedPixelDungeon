@@ -123,19 +123,19 @@ public class Hero extends Char {
 	private static final String TXT_LEAVE = "One does not simply leave Pixel Dungeon.";
 	private static final String TXT_OVERFILL = "HP Overfilled by %s";
 
-	private static final String TXT_LEVEL_UP = "level up!";
+	private static final String TXT_LEVEL_UP = "Level up!";
 	private static final String TXT_NEW_LEVEL = "Welcome to level %d! Now you are healthier and more focused. "
 			+ "It's easier for you to hit enemies and dodge their attacks.";
 
 	public static final String TXT_YOU_NOW_HAVE = "You now have %s";
 
 	private static final String TXT_SOMETHING_ELSE = "There is something else here";
-	private static final String TXT_LOCKED_CHEST = "This chest is locked and you don't have matching key";
+	private static final String TXT_LOCKED_CHEST = "This chest is locked and you don't have a matching key";
 	private static final String TXT_LOCKED_DOOR = "You don't have a matching key";
 	private static final String TXT_NOTICED_SMTH = "You noticed something";
 
 	private static final String TXT_WAIT = "...";
-	private static final String TXT_SEARCH = "search";
+	private static final String TXT_SEARCH = "searching";
 
 	public static final int STARTING_STR = 10;
 
