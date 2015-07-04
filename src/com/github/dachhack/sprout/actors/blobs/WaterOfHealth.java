@@ -75,7 +75,7 @@ public class WaterOfHealth extends WellWater {
 
 	@Override
 	public String tileDesc() {
-		return "he power of health radiates from the water of this well. "
+		return "The power of health radiates from the water of this well. "
 				+ "Take a sip from it to heal your wounds and satisfy hunger.";
 	}
 }
