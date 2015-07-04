@@ -52,7 +52,7 @@ public enum HeroClass {
 			"Warriors start with 11 points of Strength.",
 			"Warriors start with a unique short sword. This sword can be later \"reforged\" to upgrade another melee weapon.",
 			"Warriors are less proficient with missile weapons.",
-			"Any piece of food restores some health when eaten.",
+			"Any piece of food restores more health when eaten than other classes.",
 			"Potions of Strength are identified from the beginning.", };
 
 	public static final String[] MAG_PERKS = {
@@ -65,8 +65,8 @@ public enum HeroClass {
 	public static final String[] ROG_PERKS = {
 			"Rogues start with a unique Cloak of Shadows.",
 			"Rogues identify a type of a ring on equipping it.",
-			"Rogues are proficient with light armor, dodging better while wearing one.",
-			"Rogues are proficient in detecting hidden doors and traps.",
+			"Rogues are proficient with light armor, dodging better while wearing it.",
+			"Rogues are proficient at detecting hidden doors and traps.",
 			"Rogues can go without food longer.",
 			"Scrolls of Magic Mapping are identified from the beginning." };
 
